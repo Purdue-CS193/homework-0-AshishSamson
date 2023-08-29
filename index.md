@@ -9,5 +9,5 @@ My favorite things about CS193 are:
 - the use of GitHub
 - the knowledgeable TAs and humorous presentations
 - the one time a week optional Practice Study Observation
-- the ATTENDANCE QUIZZES?!?!
+- the ATTENDANCE QUIZZES?!?!?!
 ```
